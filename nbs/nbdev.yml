@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "build_nanogpt"
+  site-url: "https://suchith720.github.io/build_nanogpt"
+  description: "build nanogpt"
+  repo-branch: main
+  repo-url: "https://github.com/suchith720/build_nanogpt"
